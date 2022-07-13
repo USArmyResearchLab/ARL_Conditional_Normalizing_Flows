@@ -14,7 +14,7 @@ Figures and more details are available in [1].
 
 Code was adapted from implementations of [2] and [14-16].
 
-[1] John Hyatt. Maximum likelihood on the joint (data, condition) distribution for solving ill-posed problems with conditional flow models. Pre-publication (2022). Manuscript included as Manuscript.pdf in this directory.
+[1] John Hyatt. Maximum likelihood on the joint (data, condition) distribution for solving ill-posed problems with conditional flow models. Pre-publication (2022).
 
 [2] Laurent Dinh, Jascha Sohl-Dickstein, and Samy Bengio. Density estimation using Real NVP. *CoRR* abs/1605.08803 (2016).
 
