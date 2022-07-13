@@ -15,20 +15,35 @@ Figures and more details are available in [1].
 Code was adapted from implementations of [2] and [14-16].
 
 [1] John Hyatt. Maximum likelihood on the joint (data, condition) distribution for solving ill-posed problems with conditional flow models. Pre-publication (2022). Manuscript included as Manuscript.pdf in this directory.
-[2] Laurent Dinh, Jascha Sohl-Dickstein, and Samy Bengio. Density estimation using Real NVP. *CoRR* abs/1605.08803 (2016). 
+
+[2] Laurent Dinh, Jascha Sohl-Dickstein, and Samy Bengio. Density estimation using Real NVP. *CoRR* abs/1605.08803 (2016).
+
 [3] Ryan Prenger, Rafael Valle, and Bryan Catanzaro. Waveglow: A flow-based generative network for speech synthesis. *CoRR*, abs/1811.00002 (2018).
+
 [4] Rui Liu, Yu Liu, Xinyu Gong, Xiaogang Wang, and Hongsheng Li. Conditional adversarial generative flow for controllable image synthesis. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, June 2019.
+
 [5] Christina Winkler, Daniel E. Worrall, Emiel Hoogeboom, and Max Welling. Learning likelihoods with conditional normalizing flows. *CoRR*, abs/1912.00042 (2019).
+
 [6] You Lu and Pert Huang. Structured output learning with conditional generative flows. *Proceedings of the AAAI Conference on Artificial Intelligence* **34**(04):5005-5012 (2020).
+
 [7] Robin Rombach, Patrick Esser, and Bjorn Ommer. Network-to-network translation with conditional invertible neural networks. In H. Larochelle, M. Ranzato, R. Hadsell, M.F. Balcan, and H. Lin, editors, *Advances in Neural Information Processing Systems*, volume 33, pages 2784-2797. Curran Associates Inc, 2020.
+
 [8] Lynton Ardizzone, Radek Mackowiak, Ullrich Kothe, and Carsten Rother. Exact information bottleneck with invertible neural networks: Getting the best of discriminative and generative modeling. *CoRR*, abs/2001.06448 (2020).
+
 [9] Peter Sorrenson, Carsten Rother, and Ullrich Kothe. Disentanglement by nonlinear ICA with general incompressible-flow networks (GIN). *CoRR*, abs/2001.04872 (2020).
+
 [10] Lynton Ardizzone, Jakob Kruse, Carsten Luth, Niels Bracher, Carsten Rother, and Ullrich Kothe. Conditional invertible neural networks for diverse image-to-image translation. In Z. Akata, A. Geiger, and T. Sattler, editors, *Pattern Recognition*, pages 373-387. Cham, 2021. Springer International Publishing.
+
 [11] Govinda Anantha Padmanabha and Nicholas Zabaras. Solving inverse problems using conditional invertible neural networks. *Journal of Computational Physics* **433**:110194 (2021).
+
 [12] Albert Pumarola, Stefan Popov, Francesc Moreno-Noguer, and Vittorio Ferrari. C-Flow: Conditional generative flow models for images and 3D point clouds. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, June 2020.
+
 [13] Polina Kirichenko, Pavel Izmailov, and Andrew Gordon Wilson. Why normalizing flows fail to detect out-of-distribution data. *Advances in neural information processing systems*, **33**:20578-20589 (2020).
+
 [14] Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. Deep residual learning for image recognition. *CoRR* abs/1512.03385 (2015).
+
 [15] Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. Identity mappings in deep residual networks. *CoRR* abs/1603.05027 (2016).
+
 [16] Saining Xie, Ross Girshick, Piotr Dollar, Zhuowen Tu, and Kaiming He. Aggregated residual transformations for deep neural networks. *CoRR* abs/1611.05431 (2016).
 
 ## Instructions for training a toy model
